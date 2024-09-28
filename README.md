@@ -42,7 +42,7 @@ Welcome to my GitHub portfolio! 🎉 I'm Hafizh Athallah Yovanka, a Mobile Devel
 
 #### **Description:** A mobile version of the Recovie movie recommendation app. It offers personalized movie suggestions to users based on their preferences, allowing them to discover new content seamlessly
 
-#### **Technologies Used:** Flutter, REST API, Firebase
+#### **Technologies Used:** Flutter, Public API
 
 #### **Key Features:**
 
